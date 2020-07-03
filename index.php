@@ -3,7 +3,7 @@
 PLugin Name: Github Custom Plugin Update
 Plugin URI: http://www.webmyne.com/
 Description: Github Custom Plugin Update
-Version: 4.0
+Version: 5.0
 Author: Webmyne
 Author URI: http://www.webmyne.com/
 */
