@@ -13,7 +13,7 @@ Author URI: http://www.webmyne.com/
 require_once( 'BFIGitHubPluginUploader.php' );
 if ( is_admin() )
 {
-    new BFIGitHubPluginUpdater( __FILE__, 'bfintal', "BFI-Core" );
+    new BFIGitHubPluginUpdater( __FILE__, 'rahulwebmyne', "custom-plugin-create" );
 }
 
 /* End code at Update Plugin */
